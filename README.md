@@ -1,4 +1,4 @@
-# Credit Approval System (Professional Version)
+# Credit Approval System 
 
 ## Run
 docker compose up --build
